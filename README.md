@@ -1,2 +1,0 @@
-# quiz
-My small project
